@@ -1,14 +1,14 @@
 body {
     background-color : blueviolet;
     font-size : 30px;
-    border-color : blueviolet;
+    border-color : white;
     border-style : groove;
     text-align : center;
 
 }
 
 button {
-    background-color : gray;
+    background-color : white;
     border-style : smooth;
     border-color : gray;
 }
